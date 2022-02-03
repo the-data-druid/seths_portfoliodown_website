@@ -8,11 +8,11 @@ showcase:
   subtitle: "Data Scientist"
   description: "Jake is defined by his curiosity in all things, a passion to understand deeply, a knack for illuminating nuanced insights, and innovating and optimizing as he goes."
   image:
-    x: "img/showcase/toph.png"
-    _2x: "img/showcase/toph.png"
+    x: "img/showcase/jake weber data.gif"
+    _2x: "img/showcase/jake weber data.gif"
   imageMobile:
-    x: "img/showcase/toph.png"
-    _2x: "img/showcase/toph.png"
+    x: "img/showcase/jake weber data.gif"
+    _2x: "img/showcase/jake weber data.gif"
 
   button:
     icon: "icon-mail-fill"
@@ -45,8 +45,8 @@ about:
     btnText: "About Me"
     URL: "https://www.linkedin.com/in/mrjakeweber"
   image:
-    x: "img/who-am-i/profile2.png"
-    _2x: "img/who-am-i/profile2.png"
+    x: "img/who-am-i/profile.png"
+    _2x: "img/who-am-i/profile.png"
 
 # experience
 experience:
@@ -184,8 +184,8 @@ contact:
   title: "Contact Jake"
     
   image:
-    x: "img/who-am-i/forest jake.png"
-    _2x: "img/who-am-i/forest jake.png"
+    x: "img/who-am-i/toph.png"
+    _2x: "img/who-am-i/toph.png"
     
   button:
     icon: "icon-mail-fill"
