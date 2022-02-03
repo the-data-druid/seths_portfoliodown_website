@@ -45,8 +45,8 @@ about:
     btnText: "About Me"
     URL: "https://www.linkedin.com/in/mrjakeweber"
   image:
-    x: "img/who-am-i/profile.png"
-    _2x: "img/who-am-i/profile.png"
+    x: "img/who-am-i/profile2.png"
+    _2x: "img/who-am-i/profile2.png"
 
 # experience
 experience:
