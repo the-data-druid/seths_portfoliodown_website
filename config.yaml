@@ -24,7 +24,7 @@ params:
   sections:
     - showcase
     - about
- #   - client-and-work
+    - client-and-work
     - experience
     - testimonial
     - education
@@ -35,25 +35,31 @@ menu:
     - URL: '#about'
       name: About
       weight: 2
+    - URL: '#client-and-work'
+      name: Portfolio
+      weight: 3
     - URL: '#experience'
       name: Experience
-      weight: 3
+      weight: 4
     - URL: '#testimonial'
       name: Testimonials
-      weight: 4
+      weight: 5
     - URL: '#contact'
       name: Contact
-      weight: 5
+      weight: 6
   header:
     - URL: '#about'
       name: About
       weight: 2
+    - URL: '#client-and-work'
+      name: Portfolio
+      weight: 3
     - URL: '#experience'
       name: Experience
-      weight: 3
+      weight: 4
     - URL: '#testimonial'
       name: Testimonials
-      weight: 4
+      weight: 5
     - URL: '#contact'
       name: Contact
-      weight: 5
+      weight: 6
