@@ -26,40 +26,28 @@ params:
     - about
     - client-and-work
     - experience
-    - testimonial
     - education
+    - testimonial
     - contact
-   # - newsletter
+  #  - newsletter
 menu:
   footer:
     - URL: '#about'
       name: About
       weight: 2
-    - URL: '#client-and-work'
+    - URL: '#portfolio'
       name: Portfolio
       weight: 3
-    - URL: '#experience'
-      name: Experience
-      weight: 4
-    - URL: '#testimonial'
-      name: Testimonials
-      weight: 5
     - URL: '#contact'
       name: Contact
-      weight: 6
+      weight: 4
   header:
     - URL: '#about'
       name: About
       weight: 2
-    - URL: '#client-and-work'
+    - URL: '#portfolio'
       name: Portfolio
       weight: 3
-    - URL: '#experience'
-      name: Experience
-      weight: 4
-    - URL: '#testimonial'
-      name: Testimonials
-      weight: 5
     - URL: '#contact'
       name: Contact
-      weight: 6
+      weight: 4
