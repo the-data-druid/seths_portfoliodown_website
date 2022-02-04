@@ -127,26 +127,26 @@ client_and_work:
       alt: "Ztos"
 
   works:
-    - title: "Sales Demand Forecast Application"
-      description: "This application helps Marketing & Sales identify trends in product demand. The application is built in my Shiny Predictive Dashboards Course using Machine Learning."
+    - title: "Bloom Daddy’s Rare Houseplant Sales Analysis"
+      description: "Consulted for the boutique houseplant shop, Bloom Daddy, regarding his recent Etsy sales data. He was really just looking for some insight into what drove his business last year so he could be more proactive in managing it this year. We summarized the data in various ways to give him a view into different timelines with visualizations. Then, developed an RFM strategy for segmenting his consumer base and optimizing around marketing spend."
       button:
         icon: "icon-arrow-right"
-        btnText: "Launch Application"
-        URL: "https://business-science.shinyapps.io/sales_dashboard_demand_forecast/"
+        btnText: "Download from Google Drive"
+        URL: "https://drive.google.com/drive/folders/1_k6NM45n8Jravdbx7hugd7yY8DDQXRiw?usp=sharing”
       image:
-        x: "img/works/app_sales_demand_forecast.jpg"
-        _2x: "img/works/app_sales_demand_forecast.jpg"
+        x: "img/works/Bloom Daddy scroll.gif"
+        _2x: "img/works/Bloom Daddy scroll.gif"
       is_even: true
 
-    - title: "Product Price Recommendation"
-      description: "This application helps Marketing & R&D Teams determine product gaps and price new products to fill the gaps using machine learning. The application is built in my Shiny Predictive Dashboards Course using Machine Learning."
+    - title: "Data Druid Biodiversity Analysis"
+      description: "This was more of a fun opportunity to glean insight into my life as I analyze my own collection of rare houseplants. I used this as an exercise to learn a few new tricks in summarizing and visualizing the data, plus it was just fun to look at my plants through the lens of data."
       button:
         icon: "icon-arrow-right"
-        btnText: "Launch Application"
-        URL: "https://business-science.shinyapps.io/cannondale_price_prediction_app/"
+        btnText: "Download from Google Drive"
+        URL: "https://drive.google.com/drive/folders/1_k6NM45n8Jravdbx7hugd7yY8DDQXRiw?usp=sharing"
       image:
-        x: "img/works/app_cannondale_price_prediction.jpg"
-        _2x: "img/works/app_cannondale_price_prediction.jpg"
+        x: "img/works/Data Druid scroll.gif"
+        _2x: "img/works/Data Druid scroll.gif"
       is_even: false
 
     
