@@ -5,7 +5,7 @@ head:
 showcase:
   enable: true
   title: "Hello, I’m Jake Weber."
-  subtitle: "Data Druid"
+  subtitle: "Consumer Lifecycle Specialist & Data Druid"
   description: "Jake is defined by his curiosity in all things, a passion to understand deeply, a knack for illuminating nuanced insights, and innovating and optimizing as he goes."
   image:
     x: "img/showcase/jake weber data.gif"
