@@ -29,7 +29,6 @@ params:
     - education
     - testimonial
     - contact
-  #  - newsletter
 menu:
   footer:
     - URL: '#about'
