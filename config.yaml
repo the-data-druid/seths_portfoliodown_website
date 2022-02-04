@@ -25,8 +25,8 @@ params:
     - showcase
     - about
  #   - client-and-work
-    - testimonial
     - experience
+    - testimonial
     - education
     - contact
    # - newsletter
@@ -35,11 +35,11 @@ menu:
     - URL: '#about'
       name: About
       weight: 2
-    - URL: '#testimonial'
-      name: Testimonials
-      weight: 3
     - URL: '#experience'
       name: Experience
+      weight: 3
+    - URL: '#testimonial'
+      name: Testimonials
       weight: 4
     - URL: '#contact'
       name: Contact
@@ -48,11 +48,11 @@ menu:
     - URL: '#about'
       name: About
       weight: 2
-    - URL: '#testimonial'
-      name: Testimonials
-      weight: 3
     - URL: '#experience'
       name: Experience
+      weight: 3
+    - URL: '#testimonial'
+      name: Testimonials
       weight: 4
     - URL: '#contact'
       name: Contact
