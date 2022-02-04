@@ -128,11 +128,11 @@ client_and_work:
 
   works:
     - title: "Bloom Daddy’s Rare Houseplant Sales Analysis"
-      description: "Consulted for the boutique houseplant shop, Bloom Daddy, regarding his recent Etsy sales data. He was really just looking for some insight into what drove his business last year so he could be more proactive in managing it this year. We summarized the data in various ways to give him a view into different timelines with visualizations. Then, developed an RFM strategy for segmenting his consumer base and optimizing around marketing spend."
+      description: "Consulted for the boutique houseplant shop, Bloom Daddy, regarding his recent Etsy sales data. We summarized the data to give him a view into different timelines with visualizations. Then, developed an RFM strategy for segmenting his consumer base and optimizing around marketing spend."
       button:
         icon: "icon-arrow-right"
-        btnText: "Download from Google Drive"
-        URL: "https://drive.google.com/drive/folders/1_k6NM45n8Jravdbx7hugd7yY8DDQXRiw?usp=sharing”
+        btnText: "Download Analysis"
+        URL: "cv/bloom-daddy-druid-data.html”
       image:
         x: "img/works/Bloom Daddy scroll.gif"
         _2x: "img/works/Bloom Daddy scroll.gif"
@@ -142,8 +142,8 @@ client_and_work:
       description: "This was more of a fun opportunity to glean insight into my life as I analyze my own collection of rare houseplants. I used this as an exercise to learn a few new tricks in summarizing and visualizing the data, plus it was just fun to look at my plants through the lens of data."
       button:
         icon: "icon-arrow-right"
-        btnText: "Download from Google Drive"
-        URL: "https://drive.google.com/drive/folders/1_k6NM45n8Jravdbx7hugd7yY8DDQXRiw?usp=sharing"
+        btnText: "Download Analysis"
+        URL: "Data-Druid-Biodiversity-Exploration.html"
       image:
         x: "img/works/Data Druid scroll.gif"
         _2x: "img/works/Data Druid scroll.gif"
