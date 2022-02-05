@@ -126,38 +126,28 @@ client_and_work:
         _2x: "img/clients/ztos@2x.png"
       alt: "Ztos"
 
+  
   works:
-    - title: "Gibbs Sampling Explained" 
-      description: "Gibbs sampling is one of the most popular Markov Chain Monte Carlo (MCMC) algorithms with applications in Bayesian statistics, computational linguistics, political science, and more. In my first article published with Towards Data Science, I explained how Gibbs sampling really works through a series of visualizations."
-      button:
-        icon: "icon-arrow-right"
-        btnText: "Read the Article"
-        URL: "https://towardsdatascience.com/gibbs-sampling-explained-b271f332ed8d"
-      image:
-        x: "website_images/iteration_graphs.jpg"
-        _2x: "website_images/iteration_graphs.jpg"
-      is_even: false
-    
-    - title: "From Scratch: Permutation Feature Importance for ML Interpretability"
-      description: "Use permutation feature importance to discover which features in your dataset are useful for prediction."      
-      button:
-        icon: "icon-arrow-right"
-        btnText: "Read the Article"
-        URL: "https://towardsdatascience.com/from-scratch-permutation-feature-importance-for-ml-interpretability-b60f7d5d1fe9"
-      image:
-        x: "website_images/featureimp.jpeg"
-        _2x: "website_images/featureimp.jpeg"
-      is_even: true
-      
-    - title: "Visualizing 2020 Ivy League Men's Basketball"
-      description: "R Shiny app on 2020 Ivy League Men’s Basketball statistics with interactive visualizations for easy comparison."
+    - title: "Sales Demand Forecast Application"
+      description: "This application helps Marketing & Sales identify trends in product demand. The application is built in my Shiny Predictive Dashboards Course using Machine Learning."
       button:
         icon: "icon-arrow-right"
         btnText: "Launch Application"
-        URL: "https://sbilliau.shinyapps.io/ivy_mbb2020/"
+        URL: "https://business-science.shinyapps.io/sales_dashboard_demand_forecast/"
       image:
-        x: "website_images/player_viz.png"
-        _2x: "website_images/player_viz.png"
+        x: "img/works/app_sales_demand_forecast.jpg"
+        _2x: "img/works/app_sales_demand_forecast.jpg"
+      is_even: true
+
+    - title: "Product Price Recommendation"
+      description: "This application helps Marketing & R&D Teams determine product gaps and price new products to fill the gaps using machine learning. The application is built in my Shiny Predictive Dashboards Course using Machine Learning."
+      button:
+        icon: "icon-arrow-right"
+        btnText: "Launch Application"
+        URL: "https://business-science.shinyapps.io/cannondale_price_prediction_app/"
+      image:
+        x: "img/works/app_cannondale_price_prediction.jpg"
+        _2x: "img/works/app_cannondale_price_prediction.jpg"
       is_even: false
 
 # testimonial
