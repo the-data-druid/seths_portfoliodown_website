@@ -3,15 +3,15 @@ languageCode: en-us
 theme: raditian-free-hugo-theme-data-science
 params:
   footer:
-    copyright: © Jake Weber. All rights reserved.
+    copyright: © Matt Dancho. All rights reserved.
     site_logo:
       _2x: img/general/business-science-logo.png
       alt: Design & Code - Business Science
       x: img/general/business-science-logo.png
   googleAnalyticsID: ''
   logo:
-    text1: Jake
-    text2: Weber
+    text1: Seth
+    text2: Billiau
   plugins:
     css:
       - URL: css/main.css
@@ -37,9 +37,6 @@ menu:
     - URL: '#portfolio'
       name: Portfolio
       weight: 3
-    - URL: '#experience'
-      name: Experience
-      weight: 4
   header:
     - URL: '#about'
       name: About
@@ -47,6 +44,3 @@ menu:
     - URL: '#portfolio'
       name: Portfolio
       weight: 3
-    - URL: '#experience'
-      name: Experience
-      weight: 4
