@@ -146,8 +146,8 @@ client_and_work:
         btnText: "Download Analysis"
         URL: "img/works/Data_Druid__FoliageFolk.html"
       image:
-        x: "img/works/lifelockvid.mov"
-        _2x: "img/works/lifelockvid.mov"
+        x: "img/works/lifelock.png"
+        _2x: "img/works/lifelock.png"
       is_even: false
 
 # testimonial
