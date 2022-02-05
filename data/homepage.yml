@@ -129,7 +129,7 @@ client_and_work:
   
   works:
     - title: "Etsy Sales Analysis: @BloomDaddy"
-      description: "Consulted for @BloomDaddy to help him understand what products are driving sales over time as well as developed a segmented marketing strategy with the use of an RFM analysis."
+      description: ""
       button:
         icon: "icon-arrow-right"
         btnText: "Download Analysis"
@@ -140,7 +140,7 @@ client_and_work:
       is_even: true
 
     - title: "Botanical Biodiversity Analysis: @Foliage.Folk"
-      description: "Spent time with rare houseplant collector, @Foliage.Folk, and explored his collection through an analysis highlighting it's biodiversity."
+      description: ""
       button
         icon: "icon-arrow-right"
         btnText: "Download Analysis"
