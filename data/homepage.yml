@@ -111,7 +111,7 @@ client_and_work:
       button:
         icon: "icon-arrow-right"
         btnText: "Read the Article"
-        URL: "img/works/Data Druid - Biodiversity Exploration.html"
+        URL: "img/works/Data_Druid_Biodiversity_Analysis.html"
       image:
         x: "website_images/featureimp.jpeg"
         _2x: "website_images/featureimp.jpeg"
