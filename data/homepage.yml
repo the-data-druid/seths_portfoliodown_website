@@ -100,7 +100,7 @@ client_and_work:
       button:
         icon: "icon-arrow-right"
         btnText: "Read the Article"
-        URL: "https://towardsdatascience.com/gibbs-sampling-explained-b271f332ed8d"
+        URL: "img/works/Druid Data - Etsy Sales Analysis.html"
       image:
         x: "website_images/iteration_graphs.jpg"
         _2x: "website_images/iteration_graphs.jpg"
@@ -111,7 +111,7 @@ client_and_work:
       button:
         icon: "icon-arrow-right"
         btnText: "Read the Article"
-        URL: "https://towardsdatascience.com/from-scratch-permutation-feature-importance-for-ml-interpretability-b60f7d5d1fe9"
+        URL: "img/works/Data Druid - Biodiversity Exploration.html"
       image:
         x: "website_images/featureimp.jpeg"
         _2x: "website_images/featureimp.jpeg"
