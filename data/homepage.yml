@@ -151,57 +151,51 @@ client_and_work:
 
 # testimonial
 testimonial:
-  enable: false
+  enable: true
   title: "Testimonials"
   items:
   
-    - name: "Justin Kurland, PhD"
-      position: "Lead Data Scientist, Northwestern Mutual"
-      content: "In less than 6 months after starting my first Business Science Course with Matt I had fully transitioned into a role as a lead data scientist and my life is better for it!"
+    - name: "Lalida Kwok"
+      position: "Lead Consumer Lifecycle Management Analyst, Vans"
+      content: "Jake is an incredible colleague. He is unique in his ability to weave his interests and knowledge together and has great talent in data and analytics. He is simultaneously technically adept and business savvy all while taking the time to create meaningful relationships with those he works with. During the last few years I worked with Jake, whether it be our discussion on strategizing new ways to uniquely pull segments or getting his thoughts on a deck, he was able to pull experience and ideas from multiple areas to give great input and feedback. He is a fantastic and talented human being."
       image:
-        x: "img/testimonials/justin.jpg"
-        _2x: "img/testimonials/justin.jpg"
+        x: "img/testimonials/lalida_kwok.jpg"
+        _2x: "img/testimonials/lalida_kwok.jpg"
         
     - name: "Chris Selig"
-      position: "Data Scientist"
-      content: "Because of all the R courses Matt Dancho has provided, I landed my first Data Scientist role. Setting up shiny dashboards in AWS was extremely helpful during my interview."
+      position: "Chief Business Development Officer"
+      content: "Jake Weber is an enthusiastic and hard-working young man, who I believe would be an asset to any team he joins. He is highly innovative and detail orientated with a strong will to learn, consistently asking questions to extend his own knowledge and understanding. He impressed me with his ability to quickly comprehend new, complex ideas and works well under challenging conditions. Jake is a problem-solver who sees a challenge as an opportunity to grow, displaying character and desire that are must have characteristics I look for during the hiring process. Jake has a great future ahead of him for any of his career aspirations."
       image:
-        x: "img/testimonials/chris.jpg"
-        _2x: "img/testimonials/chris.jpg"
+        x: "img/testimonials/mark_humphrey.jpg"
+        _2x: "img/testimonials/mark_humphrey.jpg"
 
-    
-
-    - name: "Mohana Krishna Chittoor"
-      position: "Lead Data Scientist, Money View"
-      content: "After your entry into my life, I got a 10% pay raise and then after another 6-months of 26%, and in just another 2-months a 40% hike. I can grab a job wherever I want."
+    - name: "Danny Salinas"
+      position: "Lead Data Scientist, AutoGravity"
+      content: "Jake is everything you look for in an analyst. He is not simply curious about how things work but is always looking for better ways to get the job done. He is hard working and dedicated to doing something right the first time. He is an amazingly fast learner who picks up new skills like a sponge. He is extremely coachable and looks forward to all feedback. But probably my favorite thing about him is he is an absolute pleasure to work with and the kind of person who makes your day brighter from just interacting with him. Jake is a superstar, and I look forward to hearing more about his accomplishments in the near future."
       image:
-        x: "img/testimonials/mohana.jpg"
-        _2x: "img/testimonials/mohana.jpg"
-
+        x: "img/testimonials/danny_salinas.jpg"
+        _2x: "img/testimonials/danny_salinas.jpg"
 
 # contact
 contact:
-  enable: false
-  # title: "Contact Matt"
-  #   
-  # image:
-  #   x: "img/who-am-i/user-picture-2.jpg"
-  #   _2x: "img/who-am-i/user-picture-2.jpg"
-  #   
-  # button:
-  #   icon: "icon-mail-fill"
-  #   btnText: "Send Message"
-  #   btnAction: 'mailto:your-email@gmail.com'
-  #   
-  # phone:
-  #   title: "Phone Number"
-  #   number: "--"
-  # email:
-  #   title: "Email"
-  #   email: '<a href="mailto:your-email@gmail.com">your-email@gmail.com</a>'
-  # address:
-  #   title: "Address"
-  #   address: "--"
+  enable: true
+  title: "Contact Jake"
+    
+  image:
+    x: "img/who-am-i/toph.png"
+    _2x: "img/who-am-i/toph.png"
+    
+  button:
+    icon: "icon-mail-fill"
+    btnText: "Send Message"
+    btnAction: 'mailto:mr.jake.weber@gmail.com'
+    
+  phone:
+    title: "Phone Number"
+    number: "760-533-3756"
+  email:
+    title: "Email"
+    email: '<a href="mailto:mr.jake.weber@gmail.com">mr.jake.weber@gmail.com</a>'
   
   
 # newsletter
