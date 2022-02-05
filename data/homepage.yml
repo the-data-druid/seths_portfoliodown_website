@@ -104,7 +104,7 @@ client_and_work:
       image:
         x: "website_images/iteration_graphs.jpg"
         _2x: "website_images/iteration_graphs.jpg"
-      is_even: false
+      is_even: true
     
     - title: "Biodiversity Exploration: Foliage Folk
       description: ""      
@@ -115,7 +115,7 @@ client_and_work:
       image:
         x: "website_images/featureimp.jpeg"
         _2x: "website_images/featureimp.jpeg"
-      is_even: true
+      is_even: false
 
 # testimonial
 testimonial:
