@@ -126,7 +126,6 @@ client_and_work:
         _2x: "img/clients/ztos@2x.png"
       alt: "Ztos"
 
-  
   works:
     - title: "Etsy Sales Analysis: @BloomDaddy"
       description: ""
