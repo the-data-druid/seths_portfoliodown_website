@@ -104,7 +104,7 @@ client_and_work:
       image:
         x: "website_images/iteration_graphs.jpg"
         _2x: "website_images/iteration_graphs.jpg"
-      is_even: true
+      is_even: false
     
     - title: "Biodiversity Exploration: Foliage Folk
       description: ""      
@@ -115,6 +115,17 @@ client_and_work:
       image:
         x: "website_images/featureimp.jpeg"
         _2x: "website_images/featureimp.jpeg"
+      is_even: true
+      
+    - title: "Visualizing 2020 Ivy League Men's Basketball"
+      description: "R Shiny app on 2020 Ivy League Men’s Basketball statistics with interactive visualizations for easy comparison."
+      button:
+        icon: "icon-arrow-right"
+        btnText: "Launch Application"
+        URL: "https://sbilliau.shinyapps.io/ivy_mbb2020/"
+      image:
+        x: "website_images/player_viz.png"
+        _2x: "website_images/player_viz.png"
       is_even: false
 
 # testimonial
