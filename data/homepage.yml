@@ -1,33 +1,33 @@
 head:
-  title: "Seth Billiau's Data Science Portfolio"
+  title: "Jake Weber's Data Science Portfolio"
 
 # showcase
 showcase:
   enable: true
-  title: "Hi, I’m Seth Billiau."
-  subtitle: "Data Scientist, Consultant"
-  description: "Welcome to my data science portfolio!"
+  title: "Hello, I’m Jake Weber."
+  subtitle: "Consumer Lifecycle Specialist & Data Druid"
+  description: "Jake is defined by his curiosity in all things, a passion to understand deeply, a knack for illuminating nuanced insights, and innovating and optimizing as he goes."
   image:
-    x: "website_images/10kiterations.gif"
-    _2x: "website_images/10kiterations.gif"
+    x: "img/showcase/jake weber data.gif"
+    _2x: "img/showcase/jake weber data.gif"
   imageMobile:
-    x: "website_images/10kiterations.gif"
-    _2x: "website_images/10kiterations.gif"
+    x: "img/showcase/jake weber data.gif"
+    _2x: "img/showcase/jake weber data.gif"
 
   button:
     icon: "icon-mail-fill"
-    btnText: "Contact Seth"
-    URL: "mailto:sethbilliau@gmail.com"
+    btnText: "Contact Jake"
+    URL: "mailto:mr.jake.weber@gmail.com"
 
   socialLinks:
     - icon: "linkedin"
-      URL: "https://www.linkedin.com/in/seth-billiau-b4b062136/"
+      URL: "https://www.linkedin.com/in/mrjakeweber/"
 
     - icon: "github"
-      URL: "https://github.com/sethbilliau"
+      URL: "https://github.com/witnwhimsy/"
 
-    - icon: "twitter"
-      URL: "https://twitter.com/sethbilliau"
+    - icon: "instagram"
+      URL: "https://www.instagram.com/foliage.folk/"
 
 # about
 about:
