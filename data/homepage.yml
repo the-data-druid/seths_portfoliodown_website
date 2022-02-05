@@ -148,28 +148,6 @@ client_and_work:
         _2x: "img/works/app_cannondale_price_prediction.jpg"
       is_even: false
 
-    - title: "Etsy Sales Analysis @BloomDaddy"
-      description: ""
-      button:
-        icon: "icon-arrow-right"
-        btnText: "Download Analysis"
-        URL: "img/works/Druid_Data__BloomDaddy.html"
-      image:
-        x: "img/works/raincloud.png"
-        _2x: "img/works/raincloud.png"
-      is_even: true
-
-    - title: "Botanical Biodiversity Analysis @Foliage.Folk"
-      description: ""
-      button
-        icon: "icon-arrow-right"
-        btnText: "Download Analysis"
-        URL: "img/works/Data_Druid__FoliageFolk.html"
-      image:
-        x: "img/works/lifelock.png"
-        _2x: "img/works/lifelock.png"
-      is_even: false
-
 
 
 # testimonial
