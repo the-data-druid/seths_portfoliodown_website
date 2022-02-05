@@ -128,8 +128,8 @@ client_and_work:
 
   
   works:
-    - title: "Sales Demand Forecast Application"
-      description: "This application helps Marketing & Sales identify trends in product demand. The application is built in my Shiny Predictive Dashboards Course using Machine Learning."
+    - title: "Etsy Sales Analysis: @BloomDaddy"
+      description: ""
       button:
         icon: "icon-arrow-right"
         btnText: "Launch Application"
@@ -139,8 +139,8 @@ client_and_work:
         _2x: "img/works/app_sales_demand_forecast.jpg"
       is_even: true
 
-    - title: "Product Price Recommendation"
-      description: "This application helps Marketing & R&D Teams determine product gaps and price new products to fill the gaps using machine learning. The application is built in my Shiny Predictive Dashboards Course using Machine Learning."
+    - title: "Rare Houseplant Biodiversity Analysis: @Foliage Folk"
+      description: ""
       button:
         icon: "icon-arrow-right"
         btnText: "Launch Application"
