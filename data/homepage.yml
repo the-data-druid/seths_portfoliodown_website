@@ -129,7 +129,7 @@ client_and_work:
   
   works:
     - title: "Etsy Sales Analysis: @BloomDaddy"
-      description: ""
+      description: "Consulted on an eCom Sales Analysis thanks to data from Etsy. Using an Orderlines table, we built dove into what's driving sales, developed a lens to look back Week-over-Week and other timelines. Additionally, we use an RFM analysis to tackle optimizing his marketing strategy & paid media spend."
       button:
         icon: "icon-arrow-right"
         btnText: "Download Analysis"
@@ -139,9 +139,9 @@ client_and_work:
         _2x: "img/works/raincloud.png"
       is_even: true
 
-    - title: "Botanical Biodiversity Analysis: @Foliage Folk"
-      description: ""
-      button:
+    - title: "Botanical Biodiversity Analysis: @Foliage.Folk"
+      description: "Spent time with rare houseplant collector, @Foliage.Folk, and had some fun diving into that data. He wanted a view of the biodiversity so we developed a few KPIs and went from there. Learning to build the last visualization was a challenge, but proved worthwhile as the final product came out feeling like a blend of art and analytics, a balance I seek in my work."
+      button
         icon: "icon-arrow-right"
         btnText: "Download Analysis"
         URL: "img/works/Data_Druid__FoliageFolk.html"
