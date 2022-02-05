@@ -132,19 +132,19 @@ client_and_work:
       description: ""
       button:
         icon: "icon-arrow-right"
-        btnText: "Launch Application"
-        URL: "https://business-science.shinyapps.io/sales_dashboard_demand_forecast/"
+        btnText: "Download Analysis"
+        URL: "img/works/Druid_Data__BloomDaddy.html"
       image:
         x: "img/works/app_sales_demand_forecast.jpg"
         _2x: "img/works/app_sales_demand_forecast.jpg"
       is_even: true
 
-    - title: "Rare Houseplant Biodiversity Analysis: @Foliage Folk"
+    - title: "Botanical Biodiversity Analysis: @Foliage Folk"
       description: ""
       button:
         icon: "icon-arrow-right"
-        btnText: "Launch Application"
-        URL: "https://business-science.shinyapps.io/cannondale_price_prediction_app/"
+        btnText: "Download Analysis"
+        URL: "img/works/Data_Druid__FoliageFolk.html"
       image:
         x: "img/works/app_cannondale_price_prediction.jpg"
         _2x: "img/works/app_cannondale_price_prediction.jpg"
