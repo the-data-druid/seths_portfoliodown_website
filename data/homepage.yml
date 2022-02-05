@@ -93,25 +93,57 @@ education:
 client_and_work:
   title: "Portfolio"
   enable: true
+  
+  enable_clients: false
+  clients:
+    - logo:
+        x: "img/clients/asgardia.png"
+        _2x: "img/clients/asgardia@2x.png"
+      alt: "Asgardia"
+
+    - logo:
+        x: "img/clients/earth-2.png"
+        _2x: "img/clients/earth-2@2x.png"
+      alt: "Earth 2.0"
+
+    - logo:
+        x: "img/clients/goldline.png"
+        _2x: "img/clients/goldline@2x.png"
+      alt: "Goldline"
+
+    - logo:
+        x: "img/clients/kanba.png"
+        _2x: "img/clients/kanba@2x.png"
+      alt: "Kanba"
+
+    - logo:
+        x: "img/clients/zoo-tv.png"
+        _2x: "img/clients/zoo-tv@2x.png"
+      alt: "Zoo"
+
+    - logo:
+        x: "img/clients/ztos.png"
+        _2x: "img/clients/ztos@2x.png"
+      alt: "Ztos"
 
   works:
-    - title: "Etsy Sales Analysis: Bloom Daddy" 
-      description: ""
+    - title: "Gibbs Sampling Explained" 
+      description: "Gibbs sampling is one of the most popular Markov Chain Monte Carlo (MCMC) algorithms with applications in Bayesian statistics, computational linguistics, political science, and more. In my first article published with Towards Data Science, I explained how Gibbs sampling really works through a series of visualizations."
       button:
         icon: "icon-arrow-right"
-        btnText: "Download the Analysis"
-        URL: "img/works/Druid Data - Etsy Sales Analysis.html"
+        btnText: "Read the Article"
+        URL: "https://towardsdatascience.com/gibbs-sampling-explained-b271f332ed8d"
       image:
         x: "website_images/iteration_graphs.jpg"
         _2x: "website_images/iteration_graphs.jpg"
       is_even: false
     
-    - title: "Biodiversity Exploration: Foliage Folk
-      description: ""      
+    - title: "From Scratch: Permutation Feature Importance for ML Interpretability"
+      description: "Use permutation feature importance to discover which features in your dataset are useful for prediction."      
       button:
         icon: "icon-arrow-right"
-        btnText: "Download the Analysis"
-        URL: "img/works/Data_Druid_Biodiversity_Analysis.html"
+        btnText: "Read the Article"
+        URL: "https://towardsdatascience.com/from-scratch-permutation-feature-importance-for-ml-interpretability-b60f7d5d1fe9"
       image:
         x: "website_images/featureimp.jpeg"
         _2x: "website_images/featureimp.jpeg"
