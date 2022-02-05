@@ -132,7 +132,7 @@ client_and_work:
       button:
         icon: "icon-arrow-right"
         btnText: "Download Analysis"
-        URL: "cv/bloom-daddy-druid-data.html”
+        URL: "img/works/Druid Data - Etsy Sales Analysis”
       image:
         x: "img/works/Bloom Daddy scroll.gif"
         _2x: "img/works/Bloom Daddy scroll.gif"
@@ -143,7 +143,7 @@ client_and_work:
       button:
         icon: "icon-arrow-right"
         btnText: "Download Analysis"
-        URL: "Data-Druid-Biodiversity-Exploration.html"
+        URL: "img/works/Data Druid - Biodiversity Analysis.html"
       image:
         x: "img/works/Data Druid scroll.gif"
         _2x: "img/works/Data Druid scroll.gif"
@@ -197,7 +197,7 @@ contact:
     title: "Email"
     email: '<a href="mailto:mr.jake.weber@gmail.com">mr.jake.weber@gmail.com</a>'
   
-  
+
 # newsletter
 # newsletter:
 #   enable: false
