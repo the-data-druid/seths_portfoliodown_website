@@ -135,8 +135,8 @@ client_and_work:
         btnText: "Download Analysis"
         URL: "img/works/Druid_Data__BloomDaddy.html"
       image:
-        x: "img/works/app_sales_demand_forecast.jpg"
-        _2x: "img/works/app_sales_demand_forecast.jpg"
+        x: "img/works/raincloud.png"
+        _2x: "img/works/raincloud.png"
       is_even: true
 
     - title: "Botanical Biodiversity Analysis: @Foliage Folk"
@@ -146,8 +146,8 @@ client_and_work:
         btnText: "Download Analysis"
         URL: "img/works/Data_Druid__FoliageFolk.html"
       image:
-        x: "img/works/app_cannondale_price_prediction.jpg"
-        _2x: "img/works/app_cannondale_price_prediction.jpg"
+        x: "img/works/lifelock.pdf"
+        _2x: "img/works/lifelock.pdf"
       is_even: false
 
 # testimonial
