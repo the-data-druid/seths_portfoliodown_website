@@ -127,7 +127,7 @@ client_and_work:
       alt: "Ztos"
 
   works:
-    - title: "Etsy Sales Analysis: @BloomDaddy"
+    - title: "Etsy Sales Analysis @BloomDaddy"
       description: ""
       button:
         icon: "icon-arrow-right"
@@ -138,7 +138,7 @@ client_and_work:
         _2x: "img/works/raincloud.png"
       is_even: true
 
-    - title: "Botanical Biodiversity Analysis: @Foliage.Folk"
+    - title: "Botanical Biodiversity Analysis @Foliage.Folk"
       description: ""
       button
         icon: "icon-arrow-right"
