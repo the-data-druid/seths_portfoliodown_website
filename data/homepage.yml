@@ -95,22 +95,22 @@ client_and_work:
   enable: true
 
   works:
-    - title: "Gibbs Sampling Explained" 
-      description: "Gibbs sampling is one of the most popular Markov Chain Monte Carlo (MCMC) algorithms with applications in Bayesian statistics, computational linguistics, political science, and more. In my first article published with Towards Data Science, I explained how Gibbs sampling really works through a series of visualizations."
+    - title: "Etsy Sales Analysis: Bloom Daddy" 
+      description: ""
       button:
         icon: "icon-arrow-right"
-        btnText: "Read the Article"
+        btnText: "Download the Analysis"
         URL: "img/works/Druid Data - Etsy Sales Analysis.html"
       image:
         x: "website_images/iteration_graphs.jpg"
         _2x: "website_images/iteration_graphs.jpg"
       is_even: false
     
-    - title: "From Scratch: Permutation Feature Importance for ML Interpretability"
-      description: "Use permutation feature importance to discover which features in your dataset are useful for prediction."      
+    - title: "Exotic Houseplant Biodiversity Exploration"
+      description: ""      
       button:
         icon: "icon-arrow-right"
-        btnText: "Read the Article"
+        btnText: "Download the Analysis"
         URL: "img/works/Data_Druid_Biodiversity_Analysis.html"
       image:
         x: "website_images/featureimp.jpeg"
