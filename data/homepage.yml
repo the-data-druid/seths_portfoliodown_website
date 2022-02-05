@@ -35,22 +35,6 @@ about:
   title: "Who am I?"
   content: 
     <p class="lead">
-    I am a graduate of Harvard University with a Bachelor of Arts in Statistics (Data Science) and a minor in Government. Raised in Grand Rapids, Michigan, I gained experience as a political organizer and campaign manager, leveraging data to win important local elections during the competitive 2016, 2018, and 2020 election cycles. Now, I work as a data scientist, bringing my passion, technical know-how, and strong communication skills to new challenges at Booz Allen Hamilton.
-    </p>
-  button:
-    icon: "icon-smile-fill"
-    btnText: "About Me"
-    URL: "https://www.sethbilliau.com"
-  image:
-    x: "website_images/headshot_square.jpg"
-    _2x: "website_images/headshot_square.jpg"
-
-# about
-about:
-  enable: true
-  title: "Who am I?"
-  content: 
-    <p class="lead">
     <strong>I love all things data.</strong> At its core, my passion fuels me with a desire to understand deeply, optimize organically, and innovate creatively. If I’m not immersed in the data, you may find me tending to my collection of rare house plants or playing Dungeons & Dragons. 
     </p>
     <p class="lead">
@@ -143,37 +127,26 @@ client_and_work:
       alt: "Ztos"
 
   works:
-    - title: "Gibbs Sampling Explained" 
-      description: "Gibbs sampling is one of the most popular Markov Chain Monte Carlo (MCMC) algorithms with applications in Bayesian statistics, computational linguistics, political science, and more. In my first article published with Towards Data Science, I explained how Gibbs sampling really works through a series of visualizations."
+    - title: "Bloom Daddy’s Rare Houseplant Sales Analysis"
+      description: ""
       button:
         icon: "icon-arrow-right"
-        btnText: "Read the Article"
-        URL: "https://towardsdatascience.com/gibbs-sampling-explained-b271f332ed8d"
+        btnText: "Download Analysis"
+        URL: "cv/bloom-daddy-druid-data.html”
       image:
-        x: "website_images/iteration_graphs.jpg"
-        _2x: "website_images/iteration_graphs.jpg"
-      is_even: false
-    
-    - title: "From Scratch: Permutation Feature Importance for ML Interpretability"
-      description: "Use permutation feature importance to discover which features in your dataset are useful for prediction."      
-      button:
-        icon: "icon-arrow-right"
-        btnText: "Read the Article"
-        URL: "https://towardsdatascience.com/from-scratch-permutation-feature-importance-for-ml-interpretability-b60f7d5d1fe9"
-      image:
-        x: "website_images/featureimp.jpeg"
-        _2x: "website_images/featureimp.jpeg"
+        x: "img/works/Bloom Daddy scroll.gif"
+        _2x: "img/works/Bloom Daddy scroll.gif"
       is_even: true
-      
-    - title: "Visualizing 2020 Ivy League Men's Basketball"
-      description: "R Shiny app on 2020 Ivy League Men’s Basketball statistics with interactive visualizations for easy comparison."
+
+    - title: "Data Druid Biodiversity Analysis"
+      description: ""
       button:
         icon: "icon-arrow-right"
-        btnText: "Launch Application"
-        URL: "https://sbilliau.shinyapps.io/ivy_mbb2020/"
+        btnText: "Download Analysis"
+        URL: "Data-Druid-Biodiversity-Exploration.html"
       image:
-        x: "website_images/player_viz.png"
-        _2x: "website_images/player_viz.png"
+        x: "img/works/Data Druid scroll.gif"
+        _2x: "img/works/Data Druid scroll.gif"
       is_even: false
 
 # testimonial
