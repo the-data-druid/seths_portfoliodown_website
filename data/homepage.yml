@@ -128,7 +128,7 @@ client_and_work:
 
   works:
     - title: "Etsy Sales Analysis @BloomDaddy"
-      description: ""
+      description: "An exploration of @BloomDaddy's Etsy data. We look into who his top customers are and develop a Recency, Frequency, & Monetary (RFM) Analysis Plus, provide insights into his sales over time and top products."
       button:
         icon: "icon-arrow-right"
         btnText: "Download Analysis"
@@ -139,7 +139,7 @@ client_and_work:
       is_even: true
 
     - title: "Botanical Biodiversity Analysis @Foliage.Folk"
-      description: ""
+      description: "An exploration of @Foliage.Folk's plant collection. I tidy the data up, determine which genus & species are most common, and visualize the data to demonstrate the biodiversity."
       button:
         icon: "icon-arrow-right"
         btnText: "Download Analysis"
